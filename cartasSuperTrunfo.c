@@ -23,7 +23,7 @@ int main(){
     printf ("Digite o PIB dessa cidade: ");
     scanf("%f", &pib);
     printf ("Digite o numero de pontos turisticos dessa cidade: ");
-    scanf("%d\n", &numPontoTuristico);
+    scanf("%d", &numPontoTuristico);
 
     //entrada e saida de dados da carta 2 com printf e scanf
     printf ("\nCarta 2\n");
@@ -40,7 +40,7 @@ int main(){
     printf ("Digite o PIB dessa cidade: ");
     scanf("%f", &pib2);
     printf ("Digite o numero de pontos turisticos dessa cidade: ");
-    scanf("%d\n", &numPontoTuristico2);
+    scanf("%d", &numPontoTuristico2);
 
     //impressão da carta 1
     printf ("Carta 1\n");
